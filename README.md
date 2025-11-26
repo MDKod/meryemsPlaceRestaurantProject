@@ -13,4 +13,4 @@ This project is a user-focused pizza and hamburger ordering platform designed us
 
  <br>
 
- ![gif](pizza.gif)
+ ![gif](assets/images/pizza.gif)
